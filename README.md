@@ -17,3 +17,5 @@ Program ini digunakan untuk menghitung bunga sederhana berdasarkan rumus:
 3. Masukkan suku bunga
 4. Masukkan periode waktu
 5. Hasil akan ditampilkan otomatis
+
+Tugas diselesaikan oleh Dzyptra127
